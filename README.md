@@ -1,5 +1,7 @@
 # 菜谱推荐服务 How To Cook
 
+[![smithery badge](https://smithery.ai/badge/xiaobenyang-com/how-to-cook)](https://smithery.ai/server/xiaobenyang-com/how-to-cook)
+
 基于MCP协议的AI菜谱推荐服务器，提供菜谱查询、分类筛选、智能膳食规划和每日菜单推荐功能。
 An AI recipe recommendation server based on the MCP protocol, providing functions such as recipe query, classification filtering, intelligent dietary planning, and daily menu recommendation.## 工具列表 Tool List
 
